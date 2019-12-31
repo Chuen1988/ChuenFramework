@@ -5,9 +5,9 @@ import java.text.NumberFormat;
 import java.text.ParseException;
 import java.util.Locale;
 
-public final class CBConvertor {
+public final class CBConverter {
 
-   private CBConvertor() {
+   private CBConverter() {
       // Utility classes should not have a public or default constructor.
       // best practice
    }
