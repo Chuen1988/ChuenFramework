@@ -1,0 +1,26 @@
+<resources>
+    <!-- Components Style -->
+    <declare-styleable name="CB">
+
+        <attr name="inputType" format="enum">
+            <enum name="account" value="0" />
+            <enum name="email" value="1" />
+            <enum name="phone" value="2" />
+            <enum name="amount" value="3" />
+            <enum name="number" value="4" />
+            <enum name="password" value="5"/>
+            <enum name="numberPassword" value="6"/>
+            <enum name="normalMultiline" value="7"/>
+        </attr>
+
+        <!-- Minimum size of the text. -->
+        <attr name="minTextSize" format="dimension" />
+        <!-- Amount of precision used to calculate the correct text size to fit within its
+        bounds. Lower precision is more precise and takes more time. -->
+        <attr name="textPrecision" format="float" />
+        <!-- Defines whether to automatically resize text to fit to the view's bounds. -->
+        <attr name="textSizeToFit" format="boolean" />
+
+    </declare-styleable>
+
+</resources>

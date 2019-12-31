@@ -1,0 +1,1123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dd8b4a76-2090-4c17-b649-291f27fe154a" name="Default" comment="30/12/2019 code arrangement">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/chuen/framework/mvp/modal/TestModal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/chuen/framework/mvp/presenter/TestPresenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/chuen/framework/mvp/SayHelloActivityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/chuen/framework/mvp/SayHelloActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/chuen/framework/mvp/ActTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/chuen/framework/mvp/SayHelloContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/chuen/framework/mvp/TestContract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/chuen/framework/mvp/modal/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/chuen/framework/mvp/presenter/SayHelloPresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_hello_screen.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/act_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/chuen/framework/EmailValidatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/chuen/framework/SharedPreferencesHelperTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/chuen/framework/mvp/modal/PersonTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/chuen/framework/mvp/presenter/SayHelloPresenterTest.java" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_28" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/chuen/framework/ActMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ocbc</find>
+      <find>ocbcTextSizeToFit</find>
+      <find>mHelper</find>
+      <find>DEFAULT_MIN_TEXT_SIZE</find>
+      <find>scaledDensity</find>
+      <find>test.</find>
+      <find>suppo</find>
+      <find>support</find>
+      <find>dd MMM yyyy HH:mm:ss</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/gradle.properties" />
+        <option value="$PROJECT_DIR$/CBlib/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/CBlib/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/CBlib/src/main/java/com/cblib/util/CBUtil.java" />
+        <option value="$PROJECT_DIR$/CBlib/src/main/java/com/cblib/component/CBEditText.kt" />
+        <option value="$PROJECT_DIR$/CBlib/src/main/java/com/cblib/component/GreatCBAutoFitHelper.java" />
+        <option value="$PROJECT_DIR$/CBlib/src/main/java/com/cblib/component/CBAutoFitHelper.java" />
+        <option value="$PROJECT_DIR$/CBlib/src/main/res/values/attrs.xml" />
+        <option value="$PROJECT_DIR$/CBlib/src/main/java/com/cblib/component/CBTextView.kt" />
+        <option value="$PROJECT_DIR$/CBlib/src/main/java/com/cblib/util/CBConstant.kt" />
+        <option value="$PROJECT_DIR$/CBlib/src/main/java/com/cblib/util/CBCalendarUtils.java" />
+        <option value="$PROJECT_DIR$/CBlib/src/main/java/com/cblib/util/CBRecyclerArrayAdapter.java" />
+        <option value="$PROJECT_DIR$/CBlib/gradle.properties" />
+        <option value="$PROJECT_DIR$/CBlib/src/main/java/com/cblib/util/CBLog.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/chuen/framework/ActMain.kt" />
+        <option value="$PROJECT_DIR$/CBlib/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/test/java/com/chuen/framework/mvp/modal/PersonTest.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/chuen/framework/mvp/SharedPreferencesHelper.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/chuen/framework/mvp/EmailValidator.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/chuen/framework/SharedPreferenceEntry.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/chuen/framework/EmailValidator.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/chuen/framework/SharedPreferencesHelper.java" />
+        <option value="$PROJECT_DIR$/app/src/test/java/com/chuen/framework/EmailValidatorTest.java" />
+        <option value="$PROJECT_DIR$/app/src/test/java/com/chuen/framework/SharedPreferencesHelper.java" />
+        <option value="$PROJECT_DIR$/app/src/test/java/com/chuen/framework/SharedPreferencesHelperTest.java" />
+        <option value="$PROJECT_DIR$/app/src/test/java/com/chuen/framework/mvp/presenter/SayHelloPresenterTest.java" />
+        <option value="$PROJECT_DIR$/CBlib/src/main/java/com/cblib/util/CBRecyclerArrayAdapter.kt" />
+        <option value="$PROJECT_DIR$/CBlib/src/main/java/com/cblib/util/CBFilter.java" />
+        <option value="$PROJECT_DIR$/CBlib/src/main/java/com/cblib/util/font/FontUtil.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/chuen/framework/mvp/modal/Person.java" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/com/chuen/framework/mvp/SayHelloActivityTest.java" />
+        <option value="$PROJECT_DIR$/CBlib/src/main/java/com/cblib/util/CBFormatter.java" />
+        <option value="$PROJECT_DIR$/CBlib/src/main/java/com/cblib/util/CBConvertor.java" />
+        <option value="$PROJECT_DIR$/CBlib/src/main/java/com/cblib/util/CBDateTime.java" />
+        <option value="$PROJECT_DIR$/CBlib/src/main/java/com/cblib/util/CBCalendarDialog.java" />
+        <option value="$PROJECT_DIR$/CBlib/src/main/java/com/cblib/util/CBAES256.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/chuen/framework/mvp/modal/TestModal.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/chuen/framework/mvp/SayHelloContract.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/chuen/framework/mvp/presenter/SayHelloPresenter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_hello_screen.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/chuen/framework/mvp/SayHelloActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/chuen/framework/mvp/presenter/TestPresenter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/chuen/framework/mvp/ActTest.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/chuen/framework/mvp/TestContract.java" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/com/chuen/framework/mvp/ActTestAndroidTest.java" />
+        <option value="$PROJECT_DIR$/app/src/test/java/com/chuen/framework/mvp/modal/TestModalTest.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/act_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsGroovy</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ChuenFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ChuenFramework" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="ChuenFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ChuenFramework" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="ChuenFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ChuenFramework" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ChuenFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ChuenFramework" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ChuenFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ChuenFramework" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ChuenFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ChuenFramework" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ChuenFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ChuenFramework" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="chuen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ChuenFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ChuenFramework" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="chuen" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ChuenFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ChuenFramework" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/layout" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+    <property name="options.lastSelected" value="gradle.compiler" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.cblib.util" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.chuen.framework" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cblib.util" />
+      <recent name="com.chuen.framework.mvp.presenter" />
+      <recent name="com.chuen.framework.mvp.modal" />
+      <recent name="com.chuen.framework.mvp" />
+      <recent name="com.cblib.component" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/layout" />
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/chuen/framework/mvp" />
+      <recent name="$PROJECT_DIR$/CBlib" />
+      <recent name="$PROJECT_DIR$/CBlib/src/main/res/values" />
+      <recent name="$PROJECT_DIR$/CBlib/src/main/assets/fonts" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Android Instrumented Tests.showMessage()">
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration name="SharedPreferencesHelperTest.sharedPreferencesHelper_SaveAndReadPersonalInformation" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chuen.framework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chuen.framework" />
+      <option name="MAIN_CLASS_NAME" value="com.chuen.framework.SharedPreferencesHelperTest" />
+      <option name="METHOD_NAME" value="sharedPreferencesHelper_SaveAndReadPersonalInformation" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestModalTest.testCreation" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chuen.framework.mvp.modal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chuen.framework.mvp.modal" />
+      <option name="MAIN_CLASS_NAME" value="com.chuen.framework.mvp.modal.TestModalTest" />
+      <option name="METHOD_NAME" value="testCreation" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestModalTest.testUpdateName" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chuen.framework.mvp.modal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chuen.framework.mvp.modal" />
+      <option name="MAIN_CLASS_NAME" value="com.chuen.framework.mvp.modal.TestModalTest" />
+      <option name="METHOD_NAME" value="testUpdateName" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sampled (Java)" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ActTestAndroidTest" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <option name="TESTING_TYPE" value="2" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="com.chuen.framework.mvp.ActTestAndroidTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="showMessage()" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <option name="TESTING_TYPE" value="3" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="showMessage" />
+      <option name="CLASS_NAME" value="com.chuen.framework.mvp.ActTestAndroidTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android Instrumented Tests.showMessage()" />
+        <item itemvalue="Android Instrumented Tests.ActTestAndroidTest" />
+        <item itemvalue="Android JUnit.SharedPreferencesHelperTest.sharedPreferencesHelper_SaveAndReadPersonalInformation" />
+        <item itemvalue="Android JUnit.TestModalTest.testUpdateName" />
+        <item itemvalue="Android JUnit.TestModalTest.testCreation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd8b4a76-2090-4c17-b649-291f27fe154a" name="Default" comment="" />
+      <created>1546759544118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546759544118</updated>
+    </task>
+    <task id="LOCAL-00001" summary="8/12/2019 restructure the framework">
+      <created>1575791119064</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575791119064</updated>
+    </task>
+    <task id="LOCAL-00002" summary="8/12/2019 added unittesting">
+      <created>1575819526770</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575819526771</updated>
+    </task>
+    <task id="LOCAL-00003" summary="27/12/2019 removed authors">
+      <created>1577378813413</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577378813413</updated>
+    </task>
+    <task id="LOCAL-00004" summary="30/12/2019 code arrangement">
+      <created>1577695544317</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1577695544317</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="showMessage() - 2019.12.08 at 23h 37m 44s.xml">
+      <configuration name="showMessage()" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="showMessage() - 2019.12.09 at 11h 35m 32s.xml">
+      <configuration name="showMessage()" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="showMessage() - 2019.12.09 at 11h 35m 52s.xml">
+      <configuration name="showMessage()" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="showMessage() - 2019.12.10 at 11h 02m 18s.xml">
+      <configuration name="showMessage()" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="PersonTest_testCreation - 2019.12.10 at 11h 07m 16s.xml">
+      <configuration name="PersonTest.testCreation" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="PersonTest_testUpdateName - 2019.12.10 at 11h 08m 09s.xml">
+      <configuration name="PersonTest.testUpdateName" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="SharedPreferencesHelperTest_sharedPreferencesHelper_SaveAndReadPersonalInformation - 2019.12.10 at 11h 09m 35s.xml">
+      <configuration name="SharedPreferencesHelperTest.sharedPreferencesHelper_SaveAndReadPersonalInformation" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="showMessage() - 2019.12.10 at 11h 14m 41s.xml">
+      <configuration name="showMessage()" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="SayHelloActivityTest - 2019.12.10 at 11h 15m 27s.xml">
+      <configuration name="SayHelloActivityTest" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="showMessage() - 2019.12.27 at 00h 50m 11s.xml">
+      <configuration name="showMessage()" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.61415523" visible="true" weight="0.2907916" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Build Variants" order="3" sideWeight="0.38584474" side_tool="true" visible="true" weight="0.2907916" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Captures" order="6" side_tool="true" weight="0.25" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Resources Explorer" order="8" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33383685" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.3383686" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Problems" order="10" />
+      <window_info anchor="bottom" id="Logcat" order="11" weight="0.32930514" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.39123866" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Device File Explorer" order="4" side_tool="true" />
+      <window_info anchor="right" id="Gradle" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Preview" order="8" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="8/12/2019 restructure the framework" />
+    <MESSAGE value="8/12/2019 added unittesting" />
+    <MESSAGE value="27/12/2019 removed authors" />
+    <MESSAGE value="30/12/2019 code arrangement" />
+    <option name="LAST_COMMIT_MESSAGE" value="30/12/2019 code arrangement" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/android.jar!/android/widget/TextView.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="64" column="13" selection-start-line="64" selection-start-column="13" selection-end-line="64" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/com/chuen/framework/ExampleInstrumentedTest.kt" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test/runner/1.2.0/473ae098e490115eec8d6e723c3118054a3e9812/runner-1.2.0-sources.jar!/androidx/test/runner/AndroidJUnit4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="38" column="19" lean-forward="true" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/2.28.2/8322b59516491570931c086329654ef841e61811/mockito-core-2.28.2-sources.jar!/org/mockito/MockitoAnnotations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="62" column="23" selection-start-line="62" selection-start-column="23" selection-end-line="62" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Assert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="953" column="27" selection-start-line="953" selection-start-column="27" selection-end-line="953" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBlib/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBlib/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBlib/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="46" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBlib/src/main/java/com/cblib/util/CBRecyclerArrayAdapter.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBlib/proguard-rules.pro">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1012" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBlib/src/main/java/com/cblib/util/font/FontUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-344">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBlib/src/main/java/com/cblib/util/font/CustomTypefaceSpan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/com/chuen/framework/EmailValidatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="47" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.espresso/espresso-core/3.2.0/5d1b7f5b3c2877929324f5c846da358995c9af6d/espresso-core-3.2.0-sources.jar!/androidx/test/espresso/action/ViewActions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="298" column="27" selection-start-line="298" selection-start-column="27" selection-end-line="298" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/com/chuen/framework/SharedPreferencesHelperTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306">
+          <caret line="61" column="29" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBlib/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBlib/src/main/java/com/cblib/util/CBUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBlib/src/main/java/com/cblib/util/CBRecyclerArrayAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="96" column="7" lean-forward="true" selection-start-line="96" selection-start-column="7" selection-end-line="96" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBlib/src/main/java/com/cblib/util/CBLog.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1814">
+          <caret line="8" column="72" selection-start-line="8" selection-start-column="72" selection-end-line="8" selection-end-column="72" />
+          <folding>
+            <element signature="e#24#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBlib/src/main/java/com/cblib/util/CBFormatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-771">
+          <caret line="251" column="20" selection-start-line="251" selection-start-column="20" selection-end-line="251" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBlib/src/main/java/com/cblib/util/CBFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-464">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBlib/src/main/java/com/cblib/util/CBConvertor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="56" column="4" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBlib/src/main/java/com/cblib/util/CBConstant.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBlib/src/main/java/com/cblib/util/CBCalendarUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-103">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBlib/src/main/java/com/cblib/util/CBDateTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="34" column="79" selection-start-line="34" selection-start-column="79" selection-end-line="34" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBlib/src/main/java/com/cblib/util/CBCalendarDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBlib/src/main/java/com/cblib/component/CBTextView.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4005">
+          <caret line="267" column="51" selection-start-line="267" selection-start-column="51" selection-end-line="267" selection-end-column="51" />
+          <folding>
+            <element signature="e#29#596#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBlib/src/main/java/com/cblib/component/CBEditText.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1858">
+          <caret line="39" column="38" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
+          <folding>
+            <element signature="e#29#348#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBlib/src/main/java/com/cblib/component/CBAutoFitHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="807">
+          <caret line="74" column="62" selection-start-line="74" selection-start-column="62" selection-end-line="74" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBlib/src/main/java/com/cblib/util/CBAES256.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/chuen/framework/mvp/modal/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/chuen/framework/mvp/modal/TestModal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+          <folding>
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#511#512#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/chuen/framework/mvp/presenter/TestPresenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/chuen/framework/mvp/TestContract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/chuen/framework/mvp/ActTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="53" column="68" lean-forward="true" selection-start-line="53" selection-start-column="68" selection-end-line="53" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1297#1298#0" expanded="true" />
+            <element signature="e#1341#1342#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/chuen/framework/EmailValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="36" column="53" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/chuen/framework/SharedPreferenceEntry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/chuen/framework/SharedPreferencesHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-482">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/com/chuen/framework/mvp/presenter/SayHelloPresenterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-61">
+          <caret line="26" column="4" lean-forward="true" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/com/chuen/framework/mvp/modal/TestModalTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/com/chuen/framework/mvp/ActTestAndroidTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="35" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/proguard-rules.pro">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/act_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="51" selection-start-line="1" selection-start-column="51" selection-end-line="1" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/chuen/framework/ActMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

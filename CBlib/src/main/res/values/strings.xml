@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CBlib</string>
+
+    <!-- Button -->
+    <string name="cb_btnOK">OK</string>
+    <string name="cb_btnCancel">Cancel</string>
+
+    <!-- Dialog -->
+    <string name="cb_dialog_titleError">Error</string>
+    <string name="cb_dialog_messageInvalidDate">Invalid Date</string>
+</resources>
