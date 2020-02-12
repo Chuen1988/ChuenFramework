@@ -1,16 +1,20 @@
 package com.cblib.util;
 
 import android.content.Context;
+import android.content.res.Configuration;
 import android.content.res.Resources;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.net.Uri;
+import android.os.Build;
+import android.webkit.WebView;
 
 import java.io.BufferedOutputStream;
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.OutputStream;
+import java.util.Locale;
 
 public class CBUtil {
 
@@ -89,6 +93,28 @@ public class CBUtil {
         }
 
         return Uri.fromFile(imageFile).getPath();
+    }
 
+    /**
+     * Update language in whole App
+     *
+     * @param _context
+     * @param _languageCode
+     */
+    public static void updateLanguageForApp(Context _context, String _languageCode) {
+        //TODO Update Global variable if any
+        //ISubject.Companion.getManagerInstance().setLanguageCode(_languageCode);
+        //TODO Update Shared Preference Language
+        //SPreference.setAppLanguage(_context, _languageCode);
+
+        Locale locale = new Locale(_languageCode);
+        Locale.setDefault(locale);
+        Configuration config = new Configuration();
+        config.locale = locale;
+        _context.getResources().updateConfiguration(config, _context.getResources().getDisplayMetrics());
+
+        //For Nougat Version 24 & above
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.N)
+            new WebView(_context).destroy();
     }
 }
