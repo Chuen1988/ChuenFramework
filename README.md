@@ -1,16 +1,17 @@
 ## CBlib
 Useful simplify formatting tools for certain Android banking applications
 
-1. AES 256 Encryption & Decryption - CBAES256.java
-2. Common Calendar Dialog for date selection - CBCalendarDialog.java
-3. Date checker - CBCalendarUtils.java
-4. Double to String / String to Double / Currency converter - CBConverter.java
-5. Date Time Formatter - CBDateTime.java
-6. Recycler view filtering - CBFilter.java
-7. Currency Formatter - CBFormatter.java
-8. Logs for long strings - CBLog.kt
-9. Common Recycler View Adapter with filtering - CBRecyclerArrayAdapter.java
-10. File name and path (Uri) class - CBFiles.java (function to store image to phone local cache without storage permission storeImageToCacheDir - CBUtil.java)
+1. AES 256 Encryption & Decryption - @CBAES256.java
+2. Common Calendar Dialog for date selection - @CBCalendarDialog.java
+3. Date checker - @CBCalendarUtils.java
+4. Double to String / String to Double / Currency converter - @CBConverter.java
+5. Date Time Formatter - @CBDateTime.java
+6. Recycler view filtering - @CBFilter.java
+7. Currency Formatter - @CBFormatter.java
+8. Logs for long strings - @CBLog.kt
+9. Common Recycler View Adapter with filtering - @CBRecyclerArrayAdapter.java
+10. File name and path (Uri) class - @CBFiles.java (function to store image to phone local cache without storage permission storeImageToCacheDir - @CBUtil.java)
+11. Change language for the application project - updateLanguageForApp@CBUtil.java 
 
 ## Libraries
 Common used third party libraries are included in this framework
